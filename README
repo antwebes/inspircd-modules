@@ -1,0 +1,10 @@
+Moudle for inspircd
+===================
+
+1) m_rabbitmq send log messages to rabbitmq (this a minimal implementation)
+
+ m_rabbitmq depends of SimpleAmqpClient lib: 
+  src and instrucións for install in https://github.com/alanxz/SimpleAmqpClient 
+
+2) Configure the modules
+The sample config are in conf dir
