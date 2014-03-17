@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <string>
 #include "m_message.h"
+#include "inspircd.h"
 #include "filelogger.h"
 #include <SimpleAmqpClient/SimpleAmqpClient.h>
 
